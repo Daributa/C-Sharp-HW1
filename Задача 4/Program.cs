@@ -15,6 +15,7 @@ Console.WriteLine("Введите первое число: ");
             if(num2 > max) max = num2;
             if(num3 > max) max = num3;
                 Console.WriteLine("max =  ");
+                
                 Console.WriteLine(max);
                 
                 
